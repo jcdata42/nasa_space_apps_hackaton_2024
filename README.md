@@ -14,3 +14,5 @@ Developed using **Python** and machine learning algorithms like **MMPose**, the 
 This repo contains:
 
   - kukan_ui : an interactive demo UI. Developed using ReactJS, it shows an interactive prototype that contains the main screens of the "Galaxy Dance" app: a web-based application that can be used in any device that can use a modern web browser (currently, connection with the backend is simulated and evaluation of "dancer" movements in the video are simulated). Considering bandwidth limitations in space, resolution is optimized for 850x750px. In order to launch the user interface, follow the README.md in the 'kukan_ui' folder
+
+  - multihuman_body_pose_detection : a Proof of Concept showing how the multi-human body pose detection and tracking works in this App
